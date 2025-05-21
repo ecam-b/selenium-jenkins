@@ -1,6 +1,7 @@
 target/classes/
 target/generated-sources
-target/surefire-reports
+target/generated-test-sources
+target/maven-status
 target/test-classes
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
